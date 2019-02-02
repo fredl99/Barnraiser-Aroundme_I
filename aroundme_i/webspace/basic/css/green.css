@@ -1,0 +1,27 @@
+html { width:100%; text-align: center; background-color: #666; font-family: Lucida Grande, Lucida Sans Unicode, Bitstream Vera Sans, Geneva, Helvetica, Arial, sans-serif; }
+body { margin-right:auto; margin-left:auto; width:800px; text-align: left; background-color: #fff; }
+
+#am_menu_container { font-size: 70%; text-align:right; color: silver; padding:6px; background-color: #666; }
+#am_menu_container a { color: silver; }
+#am_menu_container a:hover { color: white; }
+#am_menu_container .highlight { color: #eee; }
+
+#body_container { margin:0px; padding:0px;}
+
+#col_left { margin:20px; float:left; display:inline; width:360px; }
+#col_right { margin:20px; float:left; display:inline; width:360px;}
+
+a { font-weight: bold; color: #2fd52e; }
+
+p { font-size:1em; margin:1em 0px 1.5em 0px; }
+
+#footer { width:800px; font-size: 90%; text-align:center; background-color: #666; color: silver; padding:6px; }
+#footer a { color: silver; }
+#footer a:hover { color: white; }
+
+.block_footer { text-align: right; }
+.block_footer a, .block_footer span { background-color: #2fd52e; color: white; text-transform: uppercase; padding: 2px; border: 1px solid #666; font-size: 90%; text-decoration: none; }
+
+input[type="submit"] { background-color: #2fd52e; color: white; text-transform: uppercase; padding: 1px; border: 1px solid #666; font-size: 90%; font-weight: normal; margin: 0px; margin-left:2px; font-weight: bold; }
+
+#id_session_reload_image { background-color: #666; margin:0px; }

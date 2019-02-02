@@ -1,0 +1,55 @@
+html { width:100%; text-align: center; background-color: #666; font-family: Lucida Grande, Lucida Sans Unicode, Bitstream Vera Sans, Geneva, Helvetica, Arial, sans-serif; }
+body { margin-right:auto; margin-left:auto; width:900px; text-align: left; background-color: #fff; }
+
+#am_menu_container { font-size: 70%; text-align:right; color: silver; padding:6px; background-color: #666; }
+#am_menu_container a { color: silver; }
+#am_menu_container a:hover { color: white; }
+#am_menu_container .highlight { color: #eee; }
+
+#body_container { margin:0px; padding:0px;}
+
+#col_left { margin-bottom:20px; margin-left:20px; float:left; display:inline; width:280px; }
+#col_middle { margin-bottom:20px; margin-left:20px; float:left; display:inline; width:280px;}
+#col_right { margin-bottom:20px; margin-left:20px; float:left; width:280px;}
+#col_blog_left { margin-bottom:20px; margin-left:20px; float:left; display:inline; width:520px; }
+#col_blog_right { margin-bottom:20px; margin-left:20px; float:left; width:320px;}
+
+a { font-weight: bold; color: #ff73eb; }
+
+#footer { width:900px; font-size: 90%; text-align:center; background-color: #666; color: silver; padding:6px; }
+#footer a { color: silver; }
+#footer a:hover { color: white; }
+
+.block_footer { text-align: right; }
+.block_footer a, .block_footer span { background-color: #ff73eb; color: white; text-transform: uppercase; padding: 2px; border: 1px solid #666; font-size: 90%; text-decoration: none; }
+
+input[type="submit"] { background-color: #ff73eb; color: white; text-transform: uppercase; padding: 1px; border: 1px solid #666; font-size: 90%; font-weight: bold; margin: 0px; margin-left:2px; }
+
+#id_session_reload_image { background-color: #666; margin:0px; }
+
+.barnraiser_openid_connect label { width: 5em; }
+
+#openid_login { width: 120px; font-size: 100%; }
+
+#footer { width:898px; font-size: 70%; text-align:center; background-color: #666; color: silver; padding:6px; }
+#footer a { color: silver; }
+#footer a:hover { color: white; }
+
+.gallery_item { border: 1px solid black; margin-right:4px; margin-bottom: 4px; height:36px; width:36px; float: left; background-color: #eee; }
+.avatar_placeholder { background-color: #edebe9; width: 36px; height: 36px; }
+.no_avatar { background-color: #efede8; width: 36px; height: 36px; }
+.avatar img { width: 36px; height: 36px; }
+
+
+h1, h2, h3, h4, h5, h6 { font-weight:bold; margin:18px 0 2px 0; color: #000; }
+h1 { font-size:24px; text-transform: capitalize; font-size:18px; }
+h2 { font-size:16px; }
+h3 { font-size:14px; }
+h4 { font-size:13px; }
+h5, h6 { font-size:1em; }
+
+p { font-size:1em; margin:1em 0px 1.5em 0px; }
+
+.li_content { margin-left:44px; }
+
+.li_avatar { border: 1px solid black; margin-right:4px; margin-bottom: 4px; height:36px; width:36px; float: left; background-color: #eee; }
